@@ -63,7 +63,11 @@ flask run
 
 Then open your browser and go to:
 
-http://127.0.0.1:5000
+http://127.0.0.1:5000/students
+http://127.0.0.1:5000/grades
+http://127.0.0.1:5000/students/1/grades
+http://127.0.0.1:5000/dashboard
+
 # Features
 1. Student Management
 Add new students

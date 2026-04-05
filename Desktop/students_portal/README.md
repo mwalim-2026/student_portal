@@ -20,6 +20,10 @@ A simple Flask web application to manage students, grades, and generate transcri
 <img width="1910" height="894" alt="image" src="https://github.com/user-attachments/assets/38ae54ba-2fc3-42d7-b06c-555896b00eb6" />
 <img width="1903" height="816" alt="image" src="https://github.com/user-attachments/assets/a2c2b0d7-3b6a-4bde-9a7b-aa946392200b" />
 <img width="1897" height="1056" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1b8d23d9-e273-44dd-8a93-0290f5a05f89" />
+<img width="1110" height="532" alt="image" src="https://github.com/user-attachments/assets/52f6a796-efe5-40ac-9901-7caf6a097904" />
+<img width="1145" height="773" alt="Screenshot 2026-04-06 012353" src="https://github.com/user-attachments/assets/f353e8cf-3304-4c9b-91f7-a5b1999203be" />
+
+
 
 
 

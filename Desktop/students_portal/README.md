@@ -1,5 +1,20 @@
-## Database Setup
+# Murithi Brown Carlos Mwalim Project
 
-Run the following command to initialize the database:
+# Student Portal Web App
 
-psql -U murithi-brown -d student_portal_db -f schema.sql
+A simple Flask web application to manage students, grades, and generate transcripts.
+
+## Technologies Used
+
+- Python 3.11
+- Flask 2.3
+- PostgreSQL 15
+- psycopg2-binary
+- ReportLab 4.0
+- HTML/CSS/Bootstrap 5
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mwalim-2026/student_portal.git

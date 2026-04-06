@@ -99,7 +99,7 @@ student_portal/
 │── .gitignore
 
  #Author
-Name: Murithi Brown Mwalim
+Name: kk Brown Mwalim
 Student Number: 2600708
 
  #License

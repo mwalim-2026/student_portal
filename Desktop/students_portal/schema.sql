@@ -1,4 +1,3 @@
--- Drop tables if they exist (for reset)
 DROP TABLE IF EXISTS grades;
 DROP TABLE IF EXISTS students;
 DROP TABLE IF EXISTS units;
@@ -32,32 +31,30 @@ CREATE TABLE grades (
 );
 
 -- =========================
--- INSERT STUDENTS (10)
+
 -- =========================
 INSERT INTO students (name, email) VALUES
-('John Doe', 'john@example.com'),
-('Jane Smith', 'jane@example.com'),
-('Alice Brown', 'alice@example.com'),
-('Bob Johnson', 'bob@example.com'),
-('Charlie Davis', 'charlie@example.com'),
-('David Wilson', 'david@example.com'),
-('Eve White', 'eve@example.com'),
-('Frank Harris', 'frank@example.com'),
-('Grace Lee', 'grace@example.com'),
-('Henry King', 'henry@example.com');
-
+('Brian Otieno', 'brianotieno@gmail.com'),
+('Mary Wanjiku', 'marywanjiku@gmail.com'),
+('Kevin Mwangi', 'kevinmwangi@gmail.com'),
+('Faith Njeri', 'faithnjeri@gmail.com'),
+('Daniel Kiptoo', 'danielkiptoo@gmail.com'),
+('Grace Achieng', 'graceachieng@gmail.com'),
+('Samuel Kariuki', 'samuelkariuki@gmail.com'),
+('Mercy Atieno', 'mercyatieno@gmail.com'),
+('Peter Kimani', 'peterkimani@gmail.com'),
+('Esther Nyambura', 'esthernyambura@gmail.com');
 -- =========================
--- INSERT UNITS (5)
+
 -- =========================
 INSERT INTO units (name, code) VALUES
-('Mathematics', 'MATH101'),
-('Computer Science', 'CS102'),
-('Physics', 'PHY103'),
-('Database Systems', 'DB104'),
-('Web Development', 'WD105');
-
+('Artificial Intelligence', 'AI201'),
+('Cyber Security', 'CS202'),
+('Mobile App Development', 'MAD203'),
+('Cloud Computing', 'CC204'),
+('Software Engineering', 'SE205');
 -- =========================
--- INSERT GRADES (20)
+
 -- =========================
 INSERT INTO grades (student_id, unit_id, score) VALUES
 (1, 1, 85),

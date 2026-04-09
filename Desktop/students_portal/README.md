@@ -1,8 +1,8 @@
-# Student Portal Web App
+                          ##Student Portal Web App
 
 A simple Flask web application to manage students, grades, and generate transcripts.
 
-## Technologies Used
+# Technologies Used
 
 - Python 3.11
 - Flask 2.3
@@ -12,24 +12,31 @@ A simple Flask web application to manage students, grades, and generate transcri
 - HTML/CSS/Bootstrap 5
 
 
- ##screenshots
-<img width="1899" height="923" alt="screen shot 1" src="https://github.com/user-attachments/assets/677626a1-9fb9-4f34-9224-0960a9d42b3e" />
-<img width="1857" height="937" alt="image" src="https://github.com/user-attachments/assets/007f5568-e4a0-4baf-a14b-3cc1bf2d3da0" />
-<img width="1915" height="830" alt="image" src="https://github.com/user-attachments/assets/8d4af5dc-7622-4fdd-966e-bb03cd082f47" />
-<img width="1367" height="534" alt="Screenshot 2" src="https://github.com/user-attachments/assets/bc763c17-95c5-413b-851e-9cde2b468658" />
-<img width="1910" height="894" alt="image" src="https://github.com/user-attachments/assets/38ae54ba-2fc3-42d7-b06c-555896b00eb6" />
-<img width="1903" height="816" alt="image" src="https://github.com/user-attachments/assets/a2c2b0d7-3b6a-4bde-9a7b-aa946392200b" />
-<img width="1897" height="1056" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1b8d23d9-e273-44dd-8a93-0290f5a05f89" />
-<img width="1110" height="532" alt="image" src="https://github.com/user-attachments/assets/52f6a796-efe5-40ac-9901-7caf6a097904" />
-<img width="1145" height="773" alt="Screenshot 2026-04-06 012353" src="https://github.com/user-attachments/assets/f353e8cf-3304-4c9b-91f7-a5b1999203be" />
+ #screenshots
+     a.127.0.0.1:5000/students
+<img width="1904" height="1019" alt="image" src="https://github.com/user-attachments/assets/4bbad463-248a-4620-9fc2-00bc0f4aa4ee" />
+<img width="1912" height="712" alt="image" src="https://github.com/user-attachments/assets/8ae7535c-65bd-4be1-bcb3-5bd3ce7d2279" />
+<img width="1918" height="545" alt="image" src="https://github.com/user-attachments/assets/7249359c-5db6-4752-8ba7-6c2863a90ae6" />
+
+     b.127.0.0.1:5000/grades
+<img width="1907" height="1011" alt="image" src="https://github.com/user-attachments/assets/3545ce17-9693-4614-b18a-c2c91fdad55c" />
+<img width="1919" height="567" alt="image" src="https://github.com/user-attachments/assets/a82eac61-1a60-4605-a64b-88383331f373" />
+<img width="1911" height="454" alt="image" src="https://github.com/user-attachments/assets/cbabeed3-0374-4911-a87a-20b597557c2e" /> 
+
+     c.127.0.0.1:5000/students/1/grades
+
+<img width="1919" height="452" alt="image" src="https://github.com/user-attachments/assets/cb8cf3c9-7aae-49c0-896c-329ceb4ed3db" />
+
+      d.127.0.0.1:5000/dashboard
+<img width="1914" height="402" alt="image" src="https://github.com/user-attachments/assets/cd2fc783-6f37-4eda-9d6d-22b31bb7017d" />
+<img width="1909" height="922" alt="image" src="https://github.com/user-attachments/assets/641ccadf-2f91-449b-be07-5501b6afc4f8" />
+<img width="1918" height="272" alt="image" src="https://github.com/user-attachments/assets/9e91d84a-3446-48db-875b-cda251bd98ae" />
 
 
 
 
 
-
-
-##setup instruction
+#setup instruction
 1. Clone the repository:
    ```bash
    git clone https://github.com/mwalim-2026/student_portal.git
